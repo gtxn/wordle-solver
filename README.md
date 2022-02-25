@@ -18,10 +18,6 @@ The demo shows the algorithm on a randomly generated word.
 To run this demo, go into the wordle-solver directory and run demo.py.
 
 
-https://user-images.githubusercontent.com/59089164/155631763-caeacfd9-b77c-42af-82a4-b44cec553c85.mov
-
-
-
 ```
 cd wordle-solver
 ```
@@ -29,6 +25,10 @@ cd wordle-solver
 ```
 python3 demo.py
 ```
+
+
+https://user-images.githubusercontent.com/59089164/155631763-caeacfd9-b77c-42af-82a4-b44cec553c85.mov
+
 
 <br>
 
@@ -38,9 +38,6 @@ The solver runs on based on user input, and is meant to be used as an aid for a 
 To run this demo, go into the wordle-solver directory and run solver.py.
 
 
-https://user-images.githubusercontent.com/59089164/155632056-343a7b71-f50d-4aa1-9f44-473a076022c8.mov
-
-
 ```
 cd wordle-solver
 ```
@@ -48,6 +45,9 @@ cd wordle-solver
 ```
 python3 solver.py
 ```
+
+https://user-images.githubusercontent.com/59089164/155632056-343a7b71-f50d-4aa1-9f44-473a076022c8.mov
+
 
 <br>
 
