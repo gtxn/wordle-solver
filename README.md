@@ -15,8 +15,11 @@ git clone https://github.com/gtxn/wordle-solver
 ### Demo 📺
 
 The demo shows the algorithm on a randomly generated word.
-
 To run this demo, go into the wordle-solver directory and run demo.py.
+
+
+https://user-images.githubusercontent.com/59089164/155631460-c7f0fa8a-6e13-45a8-91e4-4bd66122d0a1.mov
+
 
 ```
 cd wordle-solver
@@ -32,6 +35,10 @@ python3 demo.py
 
 The solver runs on based on user input, and is meant to be used as an aid for a user trying to solve a wordle puzzle.
 To run this demo, go into the wordle-solver directory and run solver.py.
+
+
+https://user-images.githubusercontent.com/59089164/155631257-08264c47-8758-41f3-803b-337cf2ff13fc.mov
+
 
 ```
 cd wordle-solver
