@@ -43,7 +43,7 @@ python3 solver.py
 
 <br>
 
-### Performance
+### Performance 💯
 
 Graph of performance :
 <br>
@@ -51,4 +51,5 @@ Graph of performance :
 ![](./assets/guess_graph.png)
 <br>
 
-Average number of guesses: 3.64
+Average number of guesses🙋 : 3.64
+Time needed⏳ : 94mins for 2315 puzzles -> 2.4s per puzzle
