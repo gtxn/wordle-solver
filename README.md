@@ -60,4 +60,5 @@ Graph of performance :
 <br>
 
 Average number of guesses🙋 : 3.64
+<br>
 Time needed⏳ : 94mins for 2315 puzzles -> 2.4s per puzzle
