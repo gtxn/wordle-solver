@@ -18,7 +18,8 @@ The demo shows the algorithm on a randomly generated word.
 To run this demo, go into the wordle-solver directory and run demo.py.
 
 
-https://user-images.githubusercontent.com/59089164/155631460-c7f0fa8a-6e13-45a8-91e4-4bd66122d0a1.mov
+https://user-images.githubusercontent.com/59089164/155631763-caeacfd9-b77c-42af-82a4-b44cec553c85.mov
+
 
 
 ```
@@ -37,7 +38,7 @@ The solver runs on based on user input, and is meant to be used as an aid for a 
 To run this demo, go into the wordle-solver directory and run solver.py.
 
 
-https://user-images.githubusercontent.com/59089164/155631257-08264c47-8758-41f3-803b-337cf2ff13fc.mov
+https://user-images.githubusercontent.com/59089164/155632056-343a7b71-f50d-4aa1-9f44-473a076022c8.mov
 
 
 ```
